@@ -59,5 +59,3 @@ I’m a Computer Science student with a focus on software systems, NLP, AI, and 
 * 🧠 **HPCC Hackathon Project** — Placed 2nd in a LexisNexis-sponsored challenge using ECL on a Thor cluster
   **[Live Demo](https://0x01.0θ.com)**
 
----
-
