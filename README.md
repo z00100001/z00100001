@@ -11,7 +11,7 @@ public class Tyler {
 }
 ````
 
-I’m a Computer Science student with a focus on software systems, NLP, AI, and Mathematics. I’m constantly building toward something more ambitious — from local-first inference models to infrastructure-level debugging tools. I care deeply about privacy, performance, and building.
+I’m a Computer Science student with a focus on software systems, NLP, AI, and Mathematics.
 
 ---
 
@@ -22,27 +22,28 @@ I’m a Computer Science student with a focus on software systems, NLP, AI, and 
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### 🧑‍💻 Languages  
+#### 🧑‍💻 Languages  
 [![Languages](https://skillicons.dev/icons?i=java,python,php,js,html,css,bash&theme=dark)](https://skillicons.dev)
 
-### 🧰 Tools & Technologies  
-[![Tools](https://skillicons.dev/icons?i=linux,docker,raspberrypi,git,vscode&theme=dark)](https://skillicons.dev)
+#### 🧰 Tools & Technologies  
+[![Tools](https://skillicons.dev/icons?i=linux,docker,raspberrypi,git,vscode,virtualbox&theme=dark)](https://skillicons.dev)
 
-### 🔧 Frameworks & Stacks  
-[![Frameworks](https://skillicons.dev/icons?i=flask,nodejs,spring&theme=dark)](https://skillicons.dev)
+#### 🔧 Frameworks & Stacks  
+[![Frameworks](https://skillicons.dev/icons?i=flask,nodejs,spring&theme=dark)](https://skillicons.dev/icons)
 
-### 📡 Platforms & Systems  
+---
+
+### 📡 Other Platforms & Systems (not in icons)
 - Electron.js (desktop deployment)
-- Streamlit (ML web apps)
-- VirtualBox & VPS environments
-- Debian/Ubuntu/Mint (dual-boot, custom config)
+- Streamlit (ML apps)
+- VPS / Custom Debian-Mint setup
 
-### 📊 Libraries & APIs  
-- Seaborn, Matplotlib (visualization)  
-- BERT / Hugging Face Transformers  
-- REST APIs for external data integration
+### 📊 Libraries & APIs
+- Seaborn, Matplotlib (viz)
+- BERT / Transformers (NLP)
+- REST APIs for integrations
 
 ---
 
@@ -59,8 +60,4 @@ I’m a Computer Science student with a focus on software systems, NLP, AI, and 
   **[Live Demo](https://0x01.0θ.com)**
 
 ---
-
-# 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=z00100001\&show_icons=true\&theme=tokyonight)](https://github.com/z00100001)
 
