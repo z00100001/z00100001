@@ -19,7 +19,7 @@ I’m a Computer Science student with a focus on software systems, NLP, AI, and 
 
 * 🧪 **Research** — Investigating the impact of model quantization techniques (e.g. INT8, FP16) on performance, accuracy, and deployment feasibility across edge devices vs. cloud inference. Emphasis on tradeoffs in latency, privacy, and accessibility. (Will be published to arXiv)
 * 📝 **Putnam 2025** — Studying for one of the hardest undergrad math competitions in North America
-
+* ⚡ **C32** - 32-bit RISC CPU: custom architecture under development. Will be showcased at the KSU Fall 2025 C-Day Symposium.
 ---
 
 ### 🛠 Tech Stack
