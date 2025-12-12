@@ -18,7 +18,6 @@ I’m a Computer Science student with a focus on software systems, NLP, AI, and 
 # 🚀 Current Projects
 
 * 🧪 **Research** — Investigating the impact of model quantization techniques (e.g. INT8, FP16) on performance, accuracy, and deployment feasibility across edge devices vs. cloud inference. Emphasis on tradeoffs in latency, privacy, and accessibility. (Will be published to arXiv)
-* 📝 **Putnam 2025** — Studying for one of the hardest undergrad math competitions in North America
 ---
 
 ### 🛠 Tech Stack
